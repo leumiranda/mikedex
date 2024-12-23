@@ -33,3 +33,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Mike-Token-Web-App
+
+# Challenge
+
+- Create a apitest get route to test my my knowledge
+- open insomnia or postman and try http://localhost:3099/leandroapitest
+- or curl http://localhost:3099/leandroapitest

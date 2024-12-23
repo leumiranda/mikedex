@@ -1,3 +1,8 @@
+require("dotenv").config();
+console.log("ETHERSCAN_API_KEY:", process.env.ETHERSCAN_API_KEY);
+console.log("SMART_CONTRACT_ADDRESS:", process.env.SMART_CONTRACT_ADDRESS);
+
+
 const app = require("./app");
 const connectDatabase = require("./config/database");
 const cloudinary = require("cloudinary");
